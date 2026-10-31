@@ -2,7 +2,7 @@
 
 **→ https://mvstnz.github.io/ai-incident-control-demo/**
 
-Leitstand für Produktionsstörungen und Störungsassistent für Maschinenbediener in einem Dashboard. Gebaut mit **n8n** (11 Workflows), **Gemini 2.5 Flash-Lite** über n8n-Guthaben und **Slack**. Alle Firmen, Aufträge und Zahlen sind erfunden (fiktive Brenner Antriebstechnik GmbH).
+Leitstand für Produktionsstörungen und Störungsassistent für Maschinenbediener in einem Dashboard. Gebaut mit **n8n** (11 Workflows), **Claude Haiku 5.5** (Leitstand) und **Gemini 2.5 Flash-Lite** (Störungsassistent) über n8n-Guthaben – die Modelle nach Messung gewählt – und **Slack**. Alle Firmen, Aufträge und Zahlen sind erfunden (fiktive Brenner Antriebstechnik GmbH).
 
 **Prinzip:** KI liest · Code prüft und rechnet · ein Mensch entscheidet · n8n orchestriert und protokolliert.
 
